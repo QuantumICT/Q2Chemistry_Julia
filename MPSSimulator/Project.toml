@@ -1,0 +1,12 @@
+name = "MPSSimulator"
+uuid = "81a3ca4a-d8a6-413d-b6dc-9dafd4a3cd05"
+authors = ["Guo Chu <guochu604b@gmail.com>"]
+version = "0.0.1"
+
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+QuantumCircuits = "aefa5731-75ce-4e77-8b64-9dbb49b79a07"
+QuantumSpins = "6fed88ee-e401-4db1-9637-2ff0b433ab63"
+TensorOperations = "6aa20fa7-93e2-5fca-9bc0-fbd0db3c71a2"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
